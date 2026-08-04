@@ -105,7 +105,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/portfolio-qr.png" width="170" alt="QR Code Portfolio Hamza Abouqora"/>
+  <img width="142" height="142" alt="Image" src="https://github.com/user-attachments/assets/6dac01db-6419-48cf-a6ce-02a297f64dde" />
 </p>
 
 <p align="center">
