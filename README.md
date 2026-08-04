@@ -89,12 +89,6 @@
   le développement Full Stack, l'IA et le Cloud.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hamza-abouqora&style=for-the-badge&color=blueviolet"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=00C6FF,8A2BE2,6C63FF"/>
-
 ---
 
 ### 📱 Mon Portfolio en un scan
