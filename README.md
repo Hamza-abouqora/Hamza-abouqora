@@ -1,25 +1,239 @@
-# Hi 👋 I'm Hamza Abouqora
+<!-- Bannière -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF,8A2BE2,00C6FF&height=220&section=header&text=Hamza%20Abouqora&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Développeur%20Full%20Stack%20%7C%20Intelligence%20Artificielle&descAlignY=58"/>
+</p>
 
-### 🚀 Full Stack Developer & AI Integration
+<h1 align="center">👋 Bonjour, moi c'est Hamza Abouqora</h1>
 
-Passionate about building modern web applications, AI-powered solutions and intelligent systems.
+<h3 align="center">
+Développeur Full Stack • IA • Applications Web • Mobile • IoT
+</h3>
 
-🌍 Casablanca, Morocco
+<p align="center">
 
-🌐 Portfolio
-https://hamza-abouqora-portfolio.vercel.app
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Développeur+Full+Stack;Passionné+par+l'IA;Spring+Boot+%7C+Next.js+%7C+React;FastAPI+%7C+Laravel+%7C+Docker;Toujours+à+la+recherche+de+nouveaux+défis"/>
 
-💼 LinkedIn
-https://linkedin.com/in/hamza-abouqora-a67513327
+</p>
 
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+---
 
-![Spring](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=springboot)
+# 🚀 À propos de moi
 
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+🎓 Titulaire d'une **Licence Professionnelle en Développement Avancé pour l'IoT et les Systèmes Intelligents**
 
-![Next](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+💻 Développeur Full Stack passionné par la création d'applications modernes, performantes et intelligentes.
 
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+🤖 Je développe des solutions intégrant :
 
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+- Intelligence Artificielle
+- Applications Web
+- Applications Mobiles
+- API REST
+- Cloud & Docker
+- IoT
+
+📍 Casablanca — Maroc
+
+---
+
+# 🌍 Me retrouver
+
+<p align="center">
+
+<a href="https://hamza-abouqora-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Hamza-abouqora">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/hamza-abouqora-a67513327">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:hamzaabq127@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Stack Technique
+
+## Front-End
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,bootstrap"/>
+
+</p>
+
+## Back-End
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,python,fastapi,nodejs,express"/>
+
+</p>
+
+## Mobile
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flutter,react"/>
+
+</p>
+
+## Bases de données
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+
+</p>
+
+## DevOps & Outils
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,postman,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hamza-abouqora&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-abouqora&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Hamza-abouqora&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Projets principaux
+
+## 🤖 AI Recruitment System
+
+Plateforme intelligente de recrutement.
+
+✅ Analyse automatique des CV
+
+✅ Matching IA
+
+✅ Dashboard RH
+
+✅ Docker
+
+✅ FastAPI
+
+✅ Next.js
+
+---
+
+## 🏥 Smart Health Monitoring
+
+Plateforme de surveillance médicale.
+
+✔ MQTT
+
+✔ Spring Boot
+
+✔ React
+
+✔ PostgreSQL
+
+✔ Temps réel
+
+---
+
+## ⚽ Smart Sports Booking Platform
+
+Application de réservation intelligente.
+
+✔ Flutter
+
+✔ Angular
+
+✔ Spring Boot
+
+✔ Express.js
+
+✔ Intelligence Artificielle
+
+✔ IoT
+
+---
+
+## 🌐 Client Web Development
+
+Développement de plateformes professionnelles :
+
+- Elavi
+- Batteria
+- Mercury Flooring
+- Bowls.be
+- Flugia
+
+---
+
+# 💼 Expérience
+
+### Développeur Full Stack
+
+🏢 Elavi
+
+- React
+- Next.js
+- Laravel
+- PHP
+- WordPress
+- Google Calendar API
+
+---
+
+### Développeur Web & Administration Système
+
+🏢 Yokamos
+
+- React
+- Laravel
+- VMware
+- Ubuntu
+- Wazuh
+- Postman
+
+---
+
+# 🎯 Objectif
+
+Construire des applications performantes, évolutives et intelligentes en combinant le développement Full Stack, l'Intelligence Artificielle et les technologies Cloud afin de répondre à des problématiques métiers concrètes.
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Hamza-abouqora&style=for-the-badge&color=blueviolet"/>
+
+</p>
+
+<p align="center">
+
+⭐ Merci de visiter mon profil ⭐
+
+</p>
