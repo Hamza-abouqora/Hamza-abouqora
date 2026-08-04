@@ -94,3 +94,22 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=00C6FF,8A2BE2,6C63FF"/>
+
+---
+
+### 📱 Mon Portfolio en un scan
+
+<p align="center">
+  Découvrez l'ensemble de mes projets, mes réalisations et mon parcours<br/>
+  sur mon portfolio en ligne — scannez le QR code ou cliquez sur le lien.
+</p>
+
+<p align="center">
+  <img src="./assets/portfolio-qr.png" width="170" alt="QR Code Portfolio Hamza Abouqora"/>
+</p>
+
+<p align="center">
+  <a href="https://hamza-abouqora-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/hamza--abouqora--portfolio.vercel.app-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
