@@ -1,51 +1,17 @@
-<!-- Bannière -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF,8A2BE2,00C6FF&height=220&section=header&text=Hamza%20Abouqora&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Développeur%20Full%20Stack%20%7C%20Intelligence%20Artificielle&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=6C63FF,8A2BE2,00C6FF&text=Hamza%20Abouqora&fontSize=42&fontColor=fff&animation=fadeIn&desc=Développeur%20Full%20Stack%20•%20Intelligence%20Artificielle&descAlignY=68"/>
 </p>
 
-<h1 align="center">👋 Bonjour, moi c'est Hamza Abouqora</h1>
-
-<h3 align="center">
-Développeur Full Stack • IA • Applications Web • Mobile • IoT
-</h3>
+<h2 align="center">👋 Bonjour, je suis Hamza Abouqora</h2>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Développeur+Full+Stack;Passionné+par+l'IA;Spring+Boot+%7C+Next.js+%7C+React;FastAPI+%7C+Laravel+%7C+Docker;Toujours+à+la+recherche+de+nouveaux+défis"/>
-
+Développeur Full Stack passionné par la conception d'applications web, mobiles et de solutions basées sur l'IA.
 </p>
-
----
-
-# 🚀 À propos de moi
-
-🎓 Titulaire d'une **Licence Professionnelle en Développement Avancé pour l'IoT et les Systèmes Intelligents**
-
-💻 Développeur Full Stack passionné par la création d'applications modernes, performantes et intelligentes.
-
-🤖 Je développe des solutions intégrant :
-
-- Intelligence Artificielle
-- Applications Web
-- Applications Mobiles
-- API REST
-- Cloud & Docker
-- IoT
-
-📍 Casablanca — Maroc
-
----
-
-# 🌍 Me retrouver
 
 <p align="center">
 
 <a href="https://hamza-abouqora-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Hamza-abouqora">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge"/>
 </a>
 
 <a href="https://linkedin.com/in/hamza-abouqora-a67513327">
@@ -60,63 +26,22 @@ Développeur Full Stack • IA • Applications Web • Mobile • IoT
 
 ---
 
-# 💻 Stack Technique
+### 🚀 Stack
 
-## Front-End
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,typescript,php,laravel,python,fastapi,nodejs,flutter,docker,mysql,mongodb,postgres,git,github"/>
 
 </p>
-
-## Back-End
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,python,fastapi,nodejs,express"/>
-
-</p>
-
-## Mobile
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=flutter,react"/>
-
-</p>
-
-## Bases de données
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
-
-</p>
-
-## DevOps & Outils
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,postman,vscode"/>
-
-</p>
-
-
-# 🎯 Objectif
-
-Construire des applications performantes, évolutives et intelligentes en combinant le développement Full Stack, l'Intelligence Artificielle et les technologies Cloud afin de répondre à des problématiques métiers concrètes.
 
 ---
+
+### 🎯 Objectif
+
+Construire des applications modernes, évolutives et intelligentes en combinant le développement Full Stack, l'IA et le Cloud.
 
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Hamza-abouqora&style=for-the-badge&color=blueviolet"/>
-
-</p>
-
-<p align="center">
-
-⭐ Merci de visiter mon profil ⭐
 
 </p>
